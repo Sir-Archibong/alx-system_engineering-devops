@@ -1,2 +1,2 @@
 #!/bi/bash
-chmod -R ugo+X.
+chmod -R +X.
